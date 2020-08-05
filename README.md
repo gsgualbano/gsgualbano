@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/gsgualbano/gsgualbano/blob/master/banner.jpeg">
+<img width="auto" height="400px" src="https://github.com/gsgualbano/gsgualbano/blob/master/banner.jpeg">
 
 ## Oi, Eu sou o Gustavo! 👋
 
@@ -7,7 +7,7 @@
 
 #### Hi, i'm Gustavo and i'm a FullStack Developer 💻.
 
-- 🧐 &nbsp; My main goal here is to share and help with projects from the community, and contribute to a better community. Right now i'm most focused on the React and Node.js projects.
+- 🧐 &nbsp; My main goal here is to share and help with projects from the community, and contribute to make a better community. Right now i'm most focused on the React and Node.js projects.
 - 🤔 &nbsp; If you need any help with CSS, React, Typescript, NodeJS, GraphQL, i have some experience that may be useful, or maybe just wanna talk about tech and stuff, feel free to reach me.
 - ⚛️  &nbsp; My current stack: <br/> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/-NodeJS-brightgreen?style=flat&logo=Node.js&logoColor=white)
