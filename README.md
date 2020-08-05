@@ -14,4 +14,4 @@
 ![React Native Badge](https://img.shields.io/badge/-ReactNative-purple?style=flat&logo=React&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=GraphQL&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/-GraphQL-blue?style=flat&logo=Typescript&logoColor=white)
-- 💬  &nbsp; About me: Besides being passionate about programming and technology in general, i like to play some Valorant once in a while, read mangas, e watch animes e tv shows.
+- 💬  &nbsp; About me: Besides being passionate about programming and technology in general, i like to play some Valorant once in a while, read mangas, watch animes and tv shows.
