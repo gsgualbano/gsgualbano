@@ -3,7 +3,7 @@
 ## Oi, Eu sou o Gustavo! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-GustavoGualbano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-gualbano-378074130)](https://www.linkedin.com/in/gustavo-gualbano-378074130)
-[![Gmail Badge](https://img.shields.io/badge/-gsgualbano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsgualbano@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gsgualbano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scherer9six@gmail.com)](mailto:scherer9six@gmail.com)
 
 #### Hi, i'm Gustavo and i'm a FullStack Developer 💻.
 
